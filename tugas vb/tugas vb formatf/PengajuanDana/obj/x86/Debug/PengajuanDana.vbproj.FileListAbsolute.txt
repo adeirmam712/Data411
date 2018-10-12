@@ -1,0 +1,12 @@
+F:\New folder\PengajuanDana\obj\x86\Debug\PengajuanDana.Form1.resources
+F:\New folder\PengajuanDana\obj\x86\Debug\PengajuanDana.Resources.resources
+F:\New folder\PengajuanDana\obj\x86\Debug\PengajuanDana.vbproj.GenerateResource.Cache
+D:\Ade Irma M\Kampus\PengajuanDana\obj\x86\Debug\PengajuanDana.Form1.resources
+D:\Ade Irma M\Kampus\PengajuanDana\obj\x86\Debug\PengajuanDana.Resources.resources
+D:\Ade Irma M\Kampus\PengajuanDana\obj\x86\Debug\PengajuanDana.vbproj.GenerateResource.Cache
+D:\Ade Irma M\Kampus\PengajuanDana\bin\Debug\PengajuanDana.exe
+D:\Ade Irma M\Kampus\PengajuanDana\bin\Debug\PengajuanDana.pdb
+D:\Ade Irma M\Kampus\PengajuanDana\bin\Debug\PengajuanDana.xml
+D:\Ade Irma M\Kampus\PengajuanDana\obj\x86\Debug\PengajuanDana.exe
+D:\Ade Irma M\Kampus\PengajuanDana\obj\x86\Debug\PengajuanDana.xml
+D:\Ade Irma M\Kampus\PengajuanDana\obj\x86\Debug\PengajuanDana.pdb
