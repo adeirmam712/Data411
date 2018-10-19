@@ -1,0 +1,42 @@
+C:\Users\A11\AppData\Local\Temporary Projects\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.Form1.resources
+C:\Users\A11\AppData\Local\Temporary Projects\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.Resources.resources
+C:\Users\A11\AppData\Local\Temporary Projects\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.vbproj.GenerateResource.Cache
+D:\AdeIrmaM\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.Resources.resources
+D:\AdeIrmaM\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.vbproj.GenerateResource.Cache
+D:\AdeIrmaM\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.Form2.resources
+D:\AdeIrmaM\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\bin\Debug\UTS_AdeIrmaM.exe
+D:\AdeIrmaM\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\bin\Debug\UTS_AdeIrmaM.pdb
+D:\AdeIrmaM\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\bin\Debug\UTS_AdeIrmaM.xml
+D:\AdeIrmaM\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.exe
+D:\AdeIrmaM\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.xml
+D:\AdeIrmaM\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.pdb
+F:\New folder\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.exe
+F:\New folder\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.xml
+F:\New folder\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.pdb
+F:\New folder\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.Form2.resources
+F:\New folder\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.Resources.resources
+F:\New folder\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.vbproj.GenerateResource.Cache
+F:\New folder\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\bin\Debug\UTS_AdeIrmaM.exe
+F:\New folder\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\bin\Debug\UTS_AdeIrmaM.pdb
+F:\New folder\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\bin\Debug\UTS_AdeIrmaM.xml
+C:\Users\Ade Irma\Documents\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.exe
+C:\Users\Ade Irma\Documents\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.xml
+C:\Users\Ade Irma\Documents\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.pdb
+C:\Users\Ade Irma\Documents\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\bin\Debug\UTS_AdeIrmaM.exe
+C:\Users\Ade Irma\Documents\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\bin\Debug\UTS_AdeIrmaM.pdb
+C:\Users\Ade Irma\Documents\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\bin\Debug\UTS_AdeIrmaM.xml
+C:\Users\Ade Irma\Documents\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.Form2.resources
+C:\Users\Ade Irma\Documents\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.Resources.resources
+C:\Users\Ade Irma\Documents\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.vbproj.GenerateResource.Cache
+D:\AdeIrmaM\VBudhdiubah\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.exe
+D:\AdeIrmaM\VBudhdiubah\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.xml
+D:\AdeIrmaM\VBudhdiubah\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.pdb
+D:\AdeIrmaM\VBudhdiubah\UTS_AdeIrmaM\UTS_AdeIrmaM\bin\Debug\UTS_AdeIrmaM.exe
+D:\AdeIrmaM\VBudhdiubah\UTS_AdeIrmaM\UTS_AdeIrmaM\bin\Debug\UTS_AdeIrmaM.pdb
+D:\AdeIrmaM\VBudhdiubah\UTS_AdeIrmaM\UTS_AdeIrmaM\bin\Debug\UTS_AdeIrmaM.xml
+D:\AdeIrmaM\VBudhdiubah\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.Form2.resources
+D:\AdeIrmaM\VBudhdiubah\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.Resources.resources
+D:\AdeIrmaM\VBudhdiubah\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.vbproj.GenerateResource.Cache
+D:\AdeIrmaM\UTS_VB\Data411\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.exe
+D:\AdeIrmaM\UTS_VB\Data411\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.xml
+D:\AdeIrmaM\UTS_VB\Data411\UTS\UTS_AdeIrmaM\UTS_AdeIrmaM\obj\x86\Debug\UTS_AdeIrmaM.pdb
